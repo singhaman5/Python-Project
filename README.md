@@ -20,11 +20,8 @@ Use Pandas to calculate mean, median, mode, standard deviation, and other key st
 
 📊 Tools & Libraries
 1)Python 3
-
 2)Pandas
-
 3)NumPy
-
 4)Matplotlib
 
 5)Seaborn
